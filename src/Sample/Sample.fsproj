@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="AlgEff" Version="1.0.0" />
-    <PackageReference Include="FSharpPlus" Version="1.2.4" />
+    <PackageReference Include="FSharpPlus" Version="1.3.3" />
   </ItemGroup>
 
 </Project>
