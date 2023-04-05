@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="AlgEff" Version="1.0.0" />
-    <PackageReference Include="FSharpPlus" Version="1.2.4" />
+    <PackageReference Include="FSharpPlus" Version="1.4.1" />
   </ItemGroup>
 
 </Project>
